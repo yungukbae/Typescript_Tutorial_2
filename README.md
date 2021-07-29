@@ -7,3 +7,12 @@ How to bundle source code into a single javascript file
 How to use a webpack dev server
 
 How to use ES6 modules & source maps(debugging)
+
+
+### Webpack dev server
+
+```
+    npx webpack server
+```
+
+tell the webpack dev server where to serve this new code has in memory from adding public output
