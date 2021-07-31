@@ -14,5 +14,3 @@ How to use ES6 modules & source maps(debugging)
 ```
     npx webpack server
 ```
-
-tell the webpack dev server where to serve this new code has in memory from adding public output
